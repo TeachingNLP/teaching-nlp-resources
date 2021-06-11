@@ -9,10 +9,12 @@
   - file: contact
   
 - part: Word Embeddings 
-  chapters:    
-  - file: topics/word-embeddings/less-math.md
-  - file: topics/word-embeddings/more-math.md
-  - file: topics/word-embeddings/applications.md
-  - file: topics/word-embeddings/advanced.md    
-  - file: topics/word-embeddings/ethics.md  
+  chapters:  
+  sections:          
+      - file: topics/word-embeddings/less-math.md
+      - file: topics/word-embeddings/more-math.md
+      - file: topics/word-embeddings/applications.md
+      - file: topics/word-embeddings/advanced.md    
+      - file: topics/word-embeddings/ethics.md    
+
 
