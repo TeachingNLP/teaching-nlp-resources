@@ -16,7 +16,7 @@
       - file: topics/word-embeddings/more-math.md
       - file: topics/word-embeddings/applications.md
       - file: topics/word-embeddings/advanced.md    
-      - file: topics/word-embeddings/ethics.md    
+      - file: topics/word-embeddings/ethics.md          
   - file: topics/topic-modeling
   sections:  
       - file: topics/topic-modeling/less-math.md
