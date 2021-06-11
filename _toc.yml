@@ -8,12 +8,19 @@
   chapters:    
   - file: contact
   
-- part: Word Embeddings 
+- part: NLP topics 
+  chapters:
+  - file: topics/word-embeddings
   sections:  
-  - file: topics/word-embeddings/less-math.md
-  - file: topics/word-embeddings/more-math.md
-  - file: topics/word-embeddings/applications.md
-  - file: topics/word-embeddings/advanced.md    
-  - file: topics/word-embeddings/ethics.md    
-
-
+      - file: topics/word-embeddings/less-math.md
+      - file: topics/word-embeddings/more-math.md
+      - file: topics/word-embeddings/applications.md
+      - file: topics/word-embeddings/advanced.md    
+      - file: topics/word-embeddings/ethics.md    
+  - file: topics/topic-modeling
+  sections:  
+      - file: topics/topic-modeling/less-math.md
+      - file: topics/topic-modeling/more-math.md
+      - file: topics/topic-modeling/applications.md
+      - file: topics/topic-modeling/advanced.md    
+      - file: topics/topic-modeling/ethics.md   
