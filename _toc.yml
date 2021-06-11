@@ -18,3 +18,10 @@
       - file: topics/word-embeddings/applications.md
       - file: topics/word-embeddings/advanced.md    
       - file: topics/word-embeddings/ethics.md          
+  - file: topics/topic-modeling/topic-modeling.md
+    sections:
+      - file: topics/topic-modeling/less-math.md
+      - file: topics/topic-modeling/more-math.md
+      - file: topics/topic-modeling/applications.md
+      - file: topics/topic-modeling/advanced.md    
+      - file: topics/topic-modeling/ethics.md          
