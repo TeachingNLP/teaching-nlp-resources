@@ -6,14 +6,13 @@
 
 - part: How to use this book? 
   chapters:    
-  - file: 
   - file: contact
   
 - part: Word Embeddings 
   chapters:    
-  - file: less-math.md
-  - file: more-math.md
-  - file: applications.md
-  - file: advanced.md    
-  - file: ethics.md  
+  - file: topics/less-math.md
+  - file: topics/more-math.md
+  - file: topics/applications.md
+  - file: topics/advanced.md    
+  - file: topics/ethics.md  
 
