@@ -10,9 +10,9 @@
   
 - part: Word Embeddings 
   chapters:    
-  - file: topics/less-math.md
-  - file: topics/more-math.md
-  - file: topics/applications.md
-  - file: topics/advanced.md    
-  - file: topics/ethics.md  
+  - file: topics/word-embeddings/less-math.md
+  - file: topics/word-embeddings/more-math.md
+  - file: topics/word-embeddings/applications.md
+  - file: topics/word-embeddings/advanced.md    
+  - file: topics/word-embeddings/ethics.md  
 
