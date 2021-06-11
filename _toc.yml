@@ -1,0 +1,19 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+  numbered: false
+
+- part: How to use this book? 
+  chapters:    
+  - file: 
+  - file: contact
+  
+- part: Word Embeddings 
+  chapters:    
+  - file: less-math.md
+  - file: more-math.md
+  - file: applications.md
+  - file: advanced.md    
+  - file: ethics.md  
+
