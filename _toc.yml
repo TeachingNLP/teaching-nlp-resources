@@ -9,7 +9,7 @@
   - file: contact
   
 - part: Word Embeddings 
-  chapters:  
+  sections:  
   - file: topics/word-embeddings/less-math.md
   - file: topics/word-embeddings/more-math.md
   - file: topics/word-embeddings/applications.md
